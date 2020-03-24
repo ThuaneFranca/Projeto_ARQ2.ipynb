@@ -5,6 +5,7 @@
 # Parte 1 - Otimização de Memória Cache
 
 Escolha um programa de código aberto na internet ou escreva um código novo Código deve ser em C++
+
 Acrescente trechos de código que acessam memória de forma não otimizada
 Apresente as modificações e apresenta uma comparação no tempo de execução
 Elabore um relatório técnico onde você apresenta
