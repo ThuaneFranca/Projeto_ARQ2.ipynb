@@ -24,9 +24,15 @@ Quais as melhorias em desempenho? (apresentar gráficos ou tabelas)
 # Parte 2 - Programação Paralela
 
 Analise seu código em busca de partes que não exploram corretamente o paralelismo
+
 Apresente as modificações e apresenta uma comparação no tempo de execução
+
 Acrescente também uma comparação de desempenho em relação ao modelo não otimizado utilizado no Parte 1
+
 Elabore um relatório técnico onde você apresenta:
+
 Quais pontos de melhoria foram encontrados
+
 Que mudanças você propôs
+
 Quais as melhorias em desempenho? (apresentar gráficos ou tabelas)
