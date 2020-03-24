@@ -1,8 +1,8 @@
-# Projeto_ARQ2.ipynb
+# Projeto_ARQ2
 
 
 
-#Parte 1 - Otimização de Memória Cache
+# Parte 1 - Otimização de Memória Cache
 
 Escolha um programa de código aberto na internet ou escreva um código novo Código deve ser em C++
 Acrescente trechos de código que acessam memória de forma não otimizada
@@ -14,7 +14,7 @@ Que mudanças você propôs
 Quais as melhorias em desempenho? (apresentar gráficos ou tabelas)
 
 
-#Parte 2 - Programação Paralela
+# Parte 2 - Programação Paralela
 
 Analise seu código em busca de partes que não exploram corretamente o paralelismo
 Apresente as modificações e apresenta uma comparação no tempo de execução
