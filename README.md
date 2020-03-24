@@ -7,11 +7,17 @@
 Escolha um programa de código aberto na internet ou escreva um código novo Código deve ser em C++
 
 Acrescente trechos de código que acessam memória de forma não otimizada
+
 Apresente as modificações e apresenta uma comparação no tempo de execução
+
 Elabore um relatório técnico onde você apresenta
+
 Qual código utilizado (com URL, mas sem o código-fonte)
+
 Quais pontos de melhoria foram encontrados
+
 Que mudanças você propôs
+
 Quais as melhorias em desempenho? (apresentar gráficos ou tabelas)
 
 
